@@ -1,0 +1,23 @@
+ main {
+    background-color:#efefef;
+    text-align: center;
+
+    
+}
+
+.shop-button {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.shop-button a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.shop-button a:hover {
+    color: darkgray;
+}
